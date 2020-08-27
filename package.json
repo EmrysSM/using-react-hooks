@@ -1,0 +1,25 @@
+{
+  "name": "using-react-hooks",
+  "version": "1.0.0",
+  "description": "This repo is the code created during the `Using React Hooks` course by _Peter Kellner_ on Pluralsight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmrysSM/using-react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmrysSM/using-react-hooks/issues"
+  },
+  "homepage": "https://github.com/EmrysSM/using-react-hooks#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
